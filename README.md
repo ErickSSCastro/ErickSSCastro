@@ -41,6 +41,7 @@ Sistema CRUD desenvolvido com HTML, CSS, PHP e MySQL, permitindo cadastro, ediç
 ## 📫 Contato
 
 💼 LinkedIn: https://www.linkedin.com/in/erick-sander-99a1a9104?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 📧 Email: erickssc@gmail.com
 
 ---
