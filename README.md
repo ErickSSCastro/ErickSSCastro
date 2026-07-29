@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou Erick Sander 👋
 
-<!--
-**ErickSSCastro/ErickSSCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Bacharel em Administração  
+🚀 Em busca da primeira oportunidade na área de Tecnologia
 
-Here are some ideas to get you started:
+## Tecnologias estudando:
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos:
+📌 Sistema de Cadastro de Clientes (CRUD)
